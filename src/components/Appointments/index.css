@@ -1,0 +1,9 @@
+.star-filled {
+  background-color: #9897f0;
+  color: #ffffff;
+}
+.star-empty {
+  background-color: #ffffff;
+  color: #9897f0;
+  border-color:  #9897f0;
+}
